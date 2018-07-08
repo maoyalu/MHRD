@@ -41,15 +41,11 @@ Parts:
 
 //       +----------+
 //  -in--|-|¯¯¯¯¯¯| |
-<<<<<<< HEAD
 //	     | | NAND | |--out-
-=======
-//       | | NAND |-|--out-
->>>>>>> c860f76ee4948993f5007ad7764005ec81729e7c
 //   -1--|-|______| |
 //       +----------+
 
 Wires:
 	in -> mypart.in1,
 	1 -> mypart.in2,
-	mypart.out -> out;	mypart.out -> out;
+	mypart.out -> out;
