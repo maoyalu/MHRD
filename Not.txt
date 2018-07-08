@@ -1,0 +1,16 @@
+Input: in;
+Outputs: out;
+
+Parts:
+	mypart NAND;
+
+//       +----------+
+//   -in-|-|¯¯¯¯¯¯| |
+//	     | | NAND | |--out-
+//    -1-|-|______| |
+//       +----------+
+
+Wires:
+	in -> mypart.in1,
+	1 -> mypart.in2,
+	mypart.out -> out;
