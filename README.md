@@ -1,7 +1,7 @@
 # MHRD
 Here are my solutions. 
 
-Highly recommend this game, [>>check it out on STEAM<<](https://store.steampowered.com/app/576030/MHRD/) and you won't be regret!
+Highly recommend this game, [>>check it out on STEAM<<](https://store.steampowered.com/app/576030/MHRD/) and you won't regret it!
 
 ![img](https://steamcdn-a.akamaihd.net/steam/apps/576030/header.jpg?t=1486148380)
 
